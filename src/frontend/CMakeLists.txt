@@ -8,6 +8,7 @@ target_sources(SystemCleaner PRIVATE
 )
 
 target_link_libraries(SystemCleaner PRIVATE Qt6::Widgets backend)
+find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
