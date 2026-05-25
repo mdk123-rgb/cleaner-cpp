@@ -5,8 +5,10 @@ int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-    QLabel label("System Cleaner działa!");
+    QLabel label("nigger");
     label.show();
 
     return app.exec();
+    
+    
 }   
