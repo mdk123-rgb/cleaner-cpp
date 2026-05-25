@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/matt/cleaner-cpp/build/src/backend",
+  "command": "/usr/bin/c++  -I/home/matt/cleaner-cpp/src/backend -std=gnu++17 -o CMakeFiles/backend.dir/dummy.cpp.o -c /home/matt/cleaner-cpp/src/backend/dummy.cpp",
+  "file": "/home/matt/cleaner-cpp/src/backend/dummy.cpp",
+  "output": "src/backend/CMakeFiles/backend.dir/dummy.cpp.o"
+},
+{
+  "directory": "/home/matt/cleaner-cpp/build/src/frontend",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/matt/cleaner-cpp/src/backend -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/SystemCleaner.dir/main.cpp.o -c /home/matt/cleaner-cpp/src/frontend/main.cpp",
+  "file": "/home/matt/cleaner-cpp/src/frontend/main.cpp",
+  "output": "src/frontend/CMakeFiles/SystemCleaner.dir/main.cpp.o"
+}
+]
