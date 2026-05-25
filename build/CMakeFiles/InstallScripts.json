@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/matt/cleaner-cpp/build/cmake_install.cmake",
-		"/home/matt/cleaner-cpp/build/src/backend/cmake_install.cmake",
-		"/home/matt/cleaner-cpp/build/src/frontend/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
