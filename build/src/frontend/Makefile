@@ -154,6 +154,30 @@ main.cpp.s:
 	cd /home/matt/cleaner-cpp/build && $(MAKE) $(MAKESILENT) -f src/frontend/CMakeFiles/SystemCleaner.dir/build.make src/frontend/CMakeFiles/SystemCleaner.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mainWindow.o: mainWindow.cpp.o
+.PHONY : mainWindow.o
+
+# target to build an object file
+mainWindow.cpp.o:
+	cd /home/matt/cleaner-cpp/build && $(MAKE) $(MAKESILENT) -f src/frontend/CMakeFiles/SystemCleaner.dir/build.make src/frontend/CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o
+.PHONY : mainWindow.cpp.o
+
+mainWindow.i: mainWindow.cpp.i
+.PHONY : mainWindow.i
+
+# target to preprocess a source file
+mainWindow.cpp.i:
+	cd /home/matt/cleaner-cpp/build && $(MAKE) $(MAKESILENT) -f src/frontend/CMakeFiles/SystemCleaner.dir/build.make src/frontend/CMakeFiles/SystemCleaner.dir/mainWindow.cpp.i
+.PHONY : mainWindow.cpp.i
+
+mainWindow.s: mainWindow.cpp.s
+.PHONY : mainWindow.s
+
+# target to generate assembly for a file
+mainWindow.cpp.s:
+	cd /home/matt/cleaner-cpp/build && $(MAKE) $(MAKESILENT) -f src/frontend/CMakeFiles/SystemCleaner.dir/build.make src/frontend/CMakeFiles/SystemCleaner.dir/mainWindow.cpp.s
+.PHONY : mainWindow.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -166,6 +190,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mainWindow.o"
+	@echo "... mainWindow.i"
+	@echo "... mainWindow.s"
 .PHONY : help
 
 

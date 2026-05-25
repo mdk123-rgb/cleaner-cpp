@@ -3,6 +3,7 @@ SystemCleaner: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o \
   CMakeFiles/SystemCleaner.dir/main.cpp.o \
+  CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o \
   /usr/lib/libQt6Widgets.so.6.11.1 \
   ../backend/libbackend.a \
   /usr/lib/libQt6Gui.so.6.11.1 \
@@ -91,6 +92,8 @@ SystemCleaner: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o:
 
 CMakeFiles/SystemCleaner.dir/main.cpp.o:
+
+CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o:
 
 /usr/lib/libQt6Widgets.so.6.11.1:
 

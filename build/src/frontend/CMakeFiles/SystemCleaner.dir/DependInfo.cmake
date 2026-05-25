@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/matt/cleaner-cpp/src/frontend/main.cpp" "src/frontend/CMakeFiles/SystemCleaner.dir/main.cpp.o" "gcc" "src/frontend/CMakeFiles/SystemCleaner.dir/main.cpp.o.d"
+  "/home/matt/cleaner-cpp/src/frontend/mainWindow.cpp" "src/frontend/CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o" "gcc" "src/frontend/CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o.d"
   "" "src/frontend/SystemCleaner" "gcc" "src/frontend/CMakeFiles/SystemCleaner.dir/link.d"
   )
 

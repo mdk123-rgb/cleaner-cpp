@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SystemCleaner.dir/link.d"
   "CMakeFiles/SystemCleaner.dir/main.cpp.o"
   "CMakeFiles/SystemCleaner.dir/main.cpp.o.d"
+  "CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o"
+  "CMakeFiles/SystemCleaner.dir/mainWindow.cpp.o.d"
   "SystemCleaner"
   "SystemCleaner.pdb"
 )
