@@ -1,14 +1,15 @@
 #include <QApplication>
-#include <QLabel>
+#include "mainWindow.h"
 
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-    QLabel label("nigger");
-    label.show();
+    // Tworzymy instancję Twojego okna
+    MainWindow window;
+    
+    // Pokazujemy je na ekranie
+    window.show();
 
     return app.exec();
-    
-    
-}   
+}
