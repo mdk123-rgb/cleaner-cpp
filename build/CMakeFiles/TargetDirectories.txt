@@ -1,0 +1,8 @@
+/home/matt/cleaner-cpp/build/CMakeFiles/edit_cache.dir
+/home/matt/cleaner-cpp/build/CMakeFiles/rebuild_cache.dir
+/home/matt/cleaner-cpp/build/src/backend/CMakeFiles/backend.dir
+/home/matt/cleaner-cpp/build/src/backend/CMakeFiles/edit_cache.dir
+/home/matt/cleaner-cpp/build/src/backend/CMakeFiles/rebuild_cache.dir
+/home/matt/cleaner-cpp/build/src/frontend/CMakeFiles/SystemCleaner.dir
+/home/matt/cleaner-cpp/build/src/frontend/CMakeFiles/edit_cache.dir
+/home/matt/cleaner-cpp/build/src/frontend/CMakeFiles/rebuild_cache.dir
